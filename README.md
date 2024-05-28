@@ -30,7 +30,7 @@ Make sure you have Python installed. You can install the necessary packages usin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/online-retail-analysis.git
+    git clone https://github.com/refusetoloose/Online_Retail_Data_Analysis.git
     cd online-retail-analysis
 
 2. Install the required packages:
