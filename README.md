@@ -7,8 +7,8 @@ This repository contains the code and instructions for analyzing and visualizing
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
-- [Activity 1: Visualizing Online Retail Data](#activity-1-visualizing-online-retail-data)
-- [Activity 2: Mining Association Rules from Online Retail Data](#activity-2-mining-association-rules-from-online-retail-data)
+- [Visualizing Online Retail Data](#visualizing-online-retail-data)
+- [Mining Association Rules from Online Retail Data](#mining-association-rules-from-online-retail-data)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,7 +54,7 @@ Install them using:
 pip install -r requirements.txt
 ```
 
-## Activity 1: Visualizing Online Retail Data
+## Visualizing Online Retail Data
 ### Description
 In this activity, we perform exploratory data analysis on the online retail dataset to understand its structure, clean the data, and create visualizations.
 
@@ -69,7 +69,7 @@ In this activity, we perform exploratory data analysis on the online retail data
 - Visualize gross revenue by month and year:
 - Save UK transactions pickle: UK.pkl
 
-## Activity 2: Mining Association Rules from Online Retail Data
+## Mining Association Rules from Online Retail Data
 ### Description
 In this activity, we use the Apriori algorithm to find frequent itemsets and mine association rules from the UK transactions in the dataset.
 
