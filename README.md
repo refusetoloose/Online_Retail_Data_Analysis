@@ -43,15 +43,16 @@ Make sure you have Python installed. You can install the necessary packages usin
 
 The required Python packages are listed in the `requirements.txt` file:
 
-jupyterlab==4.0.8
-mlxtend==0.23.0
-openpyxl==3.1.2
-pandas==2.1.3
-seaborn==0.13.0
+- jupyterlab==4.0.8
+- mlxtend==0.23.0
+- openpyxl==3.1.2
+- pandas==2.1.3
+- seaborn==0.13.0
 
 Install them using:
-  ```bash
-  pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## Activity 1: Visualizing Online Retail Data
 ### Description
